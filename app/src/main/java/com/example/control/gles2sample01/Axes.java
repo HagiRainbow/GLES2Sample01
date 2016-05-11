@@ -10,6 +10,7 @@ import java.nio.FloatBuffer;
  */
 
 /*変えてみました*/
+    /*変えてみました*/
 
 public class Axes {
     //buffer
