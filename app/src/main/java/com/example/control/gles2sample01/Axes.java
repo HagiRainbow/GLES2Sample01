@@ -8,6 +8,9 @@ import java.nio.FloatBuffer;
 /**
  * Created by Tommy on 2015/06/21.
  */
+
+/*変えてみました*/
+
 public class Axes {
     //buffer
     private FloatBuffer vertexBuffer;
