@@ -133,6 +133,8 @@ public class GLRenderer implements GLSurfaceView.Renderer {
         //shininessは使用していない
         MyAxes.draw(1f, 1f, 1f, 1f, 10.f, 2f);//座標軸の描画本体
         GLES.enableShading(); //シェーディング機能を使う設定に戻す
+
+        //zawa's コメント！
     }
 
     private float Scroll[] = {0f, 0f}; //１本指のドラッグ[rad]
